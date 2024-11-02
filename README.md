@@ -43,8 +43,8 @@ Arya Wibowo Jati
 1. **Clone the Repository**:
 
     ```bash
-    git clone <repository-url>
-    cd <project-folder>
+    git clone https://github.com/jateez/sekawan-fs.git
+    cd sekawan-fs
     ```
 
 2. **Install Dependencies**:
